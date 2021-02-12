@@ -1,0 +1,36 @@
+Linux
+
+-pwd (connaître l'emplacement courant)
+-cp +nom fichier+ destination (copier)
+-mv + nom fichier + destination (déplacer)
+-mkdir + nom du fichier (création d'un dossier)
+-touch + nom du fichier (création d'un fichier)
+-cd .. (décrémenter d'un dossier)
+-cd ~ ou cd / (revenir a la racine)
+-ls (affiche les dossiers, équivalent dir)
+-ls -a (affiche toute la de vos fichier et les éléments invisibles)
+-man + commande (explique la commande nommée)
+-nom commande --help (aide sur la commande nommée)
+-rm -r + nom (supprimer) /!\
+-ls -l (affiche les droits)
+-clear (effacer les lignes précédentes)
+-sudo su (passer et rester en super-admin)
+  Sudo permet de passer en mode "super-admin" donc d'autrepasser les différents droits. Il sert donc a éxécuter/forcer différentes commande en console.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
